@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vigneshkiruba
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning flutter
 - 📫 How to reach me 9788343170
 
 <!---
